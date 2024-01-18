@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News Now</string>
+    <string name="hello">Hello</string>
+    <string name="the_nextgen">the_nextgen</string>
+    <string name="the_nextgens">The_Nextgen</string>
+    <string name="get_started"><![CDATA[Get_Started ->]]></string>
+    <string name="news2day">News2Day</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="by_continuing_you_accept_our_privacy_policy">By continuing you accept our Privacy Policy</string>
+    <string name="sign_in_with">Sign in with</string>
+    <string name="phone_email">Phone/Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="camera">Camera</string>
+    <string name="profile">Profile</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="login">Login</string>
+</resources>

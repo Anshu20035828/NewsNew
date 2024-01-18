@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/camera"
+        android:icon="@drawable/baseline_camera_alt_24"
+        android:id="@+id/camera">
+    </item>
+    <item android:id="@+id/about"
+        android:icon="@drawable/baseline_info_24"
+        android:title="@string/about">
+    </item>
+    <item
+        android:title="@string/home"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24">
+    </item>
+    <item
+        android:title="@string/profile"
+        android:id="@+id/profile"
+        android:icon="@drawable/baseline_person_24"
+        app:showAsAction="always">
+    </item>
+
+</menu>
